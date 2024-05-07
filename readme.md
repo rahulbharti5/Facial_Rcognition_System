@@ -1,2 +1,2 @@
 # Smart--Attendence-System
-![plate](./example.png)
+![plate](./dataset.rahul.jpg)
